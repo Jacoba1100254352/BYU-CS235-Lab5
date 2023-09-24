@@ -14,7 +14,60 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcddecc6-722d-485b-b4b6-c63bab8a2872" name="Default Changelist" comment="Initial Commit" />
+    <list default="true" id="fcddecc6-722d-485b-b4b6-c63bab8a2872" name="Default Changelist" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/Lab5_Quicksort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/.cmake/api/v1/reply/cache-v2-aea033c6c731a32643b4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/.cmake/api/v1/reply/cmakeFiles-v1-c55f8d7f5581d43df505.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/.cmake/api/v1/reply/codemodel-v2-05b41320a30c8fdaab60.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/.cmake/api/v1/reply/index-2021-12-10T02-06-37-0549.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/.cmake/api/v1/reply/target-Quicksort_Lab-Debug-7115758c2c134a165ee7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/.cmake/api/v1/reply/toolchains-v1-bf49ad3433ce342ccf05.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/Quicksort_Lab.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/Quicksort_Lab.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/Quicksort_Lab.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/Quicksort_Lab.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/Quicksort_Lab.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/Quicksort_Lab.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/Quicksort_Lab.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/Quicksort_Lab.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/Quicksort_Lab.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/Quicksort_Lab.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/Quicksort_Lab.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/Quicksort_Lab.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/Quicksort_Lab.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug (Ignored Item Conflict)/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="9edada2e-898d-4422-a2aa-8f2c24c72dfb" name="Changes by jacobanderson" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +77,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -55,9 +107,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
@@ -101,7 +155,8 @@
       <workItem from="1638758383658" duration="19000" />
       <workItem from="1638758528731" duration="118000" />
       <workItem from="1639101144279" duration="980000" />
-      <workItem from="1639106725983" duration="1261000" />
+      <workItem from="1639106725983" duration="1343000" />
+      <workItem from="1642869824751" duration="135000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1639107920518</created>
