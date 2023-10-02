@@ -1,2 +1,7 @@
 # Project exclude paths
 /cmake-build-debug/
+
+**/.DS_Store
+.idea
+Lab5
+a.out
